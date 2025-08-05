@@ -1,9 +1,13 @@
-<h1 align="left">Hi 👋, I'm Sadbin</h1>
-<h3 align="left">Web Designer & Full-Stack Developer | Laravel & Vue.js Specialist</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#f43f5e;">Sadbin</span></h1>
+<h3 align="center">💻 Web Designer & Full-Stack Developer <br> 🎯 Laravel & Vue.js Specialist</h3>
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/sadbin-shakil" target="_blank">🔗 LinkedIn</a> • 
-  <a href="mailto:shakilcoding@gmail.com">📩 Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadbin-shakil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shakilcoding@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
