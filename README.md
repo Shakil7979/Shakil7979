@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sadbin</h1>
-<h3 align="center">Web Designer & Full-Stack Developer | Laravel & Vue.js Specialist</h3>
+<h1 align="left">Hi 👋, I'm Sadbin</h1>
+<h3 align="left">Web Designer & Full-Stack Developer | Laravel & Vue.js Specialist</h3>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.linkedin.com/in/sadbin-shakil" target="_blank">🔗 LinkedIn</a> • 
   <a href="mailto:shakilcoding@gmail.com">📩 Email</a>
 </p>
