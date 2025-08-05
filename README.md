@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadbin</h1>
 <h3 align="center">Web Designer & Full-Stack Developer | Laravel & Vue.js Specialist</h3>
 
-<p align="center">
-  <a href="https://yourportfolio.com" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">🔗 LinkedIn</a> • 
-  <a href="mailto:youremail@example.com">📩 Email</a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/sadbin-shakil" target="_blank">🔗 LinkedIn</a> • 
+  <a href="mailto:shakilcoding@gmai.com">📩 Email</a>
 </p>
 
 ---
@@ -30,15 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📂 Featured Projects
-
-| Project | Tech Used | Description |
-|--------|-----------|-------------|
-| [SimpleMart](https://github.com/yourusername/simplemart) | Vue.js, Tailwind | Mini e-commerce product listing app |
-| [Laravel API Starter](https://github.com/yourusername/laravel-api-starter) | Laravel, Sanctum | Starter API template with auth |
-| [Custom Dashboard UI](https://github.com/yourusername/custom-dashboard) | Vue.js, Chart.js | Dashboard with dynamic charts |
 
 ---
 
