@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f43f5e;">Sadbin</span></h1>
-<h3 align="center">💻 Web Designer & Full-Stack Developer <br> 🎯 Laravel & Vue.js Specialist</h3>
+<h3 align="center">💻 Full-Stack Developer <br> 🎯 Laravel & Vue.js Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadbin-shakil" target="_blank">
