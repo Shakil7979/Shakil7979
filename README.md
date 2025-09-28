@@ -10,10 +10,7 @@
   </a>
   <a href="https://wa.me/8801797948798" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shakil7979" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> 
 </p>
 
 ---
